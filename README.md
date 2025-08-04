@@ -12,7 +12,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NDev007&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-![]([https://github-profile-trophy.vercel.app/?username=NDev007&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://raw.githubusercontent.com/NDev007/Ndev007/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/NDev007/Ndev007/output/github-contribution-grid-snake.svg)
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ndev007?new=1) 
